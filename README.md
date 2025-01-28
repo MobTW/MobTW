@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679929fb1ee9a7b2d0b092f9?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
+[<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679929fb1ee9a7b2d0b092f9?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>](https://roadmap.sh/full-stack?s=679929fb1ee9a7b2d0b092f9)
 
 <!--
 **MobTW/MobTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
